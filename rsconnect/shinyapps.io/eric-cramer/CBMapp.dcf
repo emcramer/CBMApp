@@ -1,0 +1,13 @@
+name: CBMapp
+title: CBMapp
+username:
+account: eric-cramer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3595557
+bundleId: 4232015
+url: https://eric-cramer.shinyapps.io/CBMapp/
+when: 1613514760.80747
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rprofile|data/example_data.csv
